@@ -1,0 +1,3 @@
+venv/
+.env
+wow_gcp_key.json
